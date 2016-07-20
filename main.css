@@ -1,1 +1,15 @@
-/* Escribe aqui tu CSS */
+div{
+	border: 20px solid yellow;
+	padding: 30px;
+    width: 200px;
+    height: 200px;
+}
+.cuadro{
+	text-align: center;
+}
+.caja{
+	display: inline-block;
+    position:absolute;
+    bottom:10px;
+    right:40%;
+}
